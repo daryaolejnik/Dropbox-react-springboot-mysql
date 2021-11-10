@@ -5,10 +5,10 @@ A Dropbox like web application using React.js | Java Spring Boot | Spring Data |
 
 ## Requirments
 
-maven >3.6.1
-jdk >8
-npm >12.7
-MariaDB 10.6
+* maven >3.6.1
+* jdk >8
+* npm >12.7
+* MariaDB 10.6
 
 ## Run application
 
