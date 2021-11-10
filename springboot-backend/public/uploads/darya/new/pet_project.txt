@@ -1,0 +1,6 @@
+AWS, github public repo, java testapp with db, backend, and frontend to github, tun in localhost, with interaction with db, authentification in linux.
+
+maven 3.6.1
+jdk 8
+npm 12.7
+postgersql 9.6
